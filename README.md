@@ -5,3 +5,6 @@
 
 ### DES winter school
 ![DES certificate](./DES-2025-CERT.png)
+
+### EngX
+![EngX certificate](./EngX_Clean_Code.png)
